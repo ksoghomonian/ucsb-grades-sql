@@ -1,4 +1,4 @@
-#ucsb_sql.py
+#ucsb-grades.py
 
 import sqlite3
 
